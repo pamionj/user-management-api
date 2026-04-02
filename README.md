@@ -124,7 +124,7 @@ La API fue probada usando Postman, validando:
 
 |          Postman           |             psql              |
 |:--------------------------:|:-----------------------------:|
-| ![Postman](images/GET.png) | ![psql](images/psql-demo.png) |
+| ![Postman](images/GET.PNG) | ![psql](images/psql-demo.PNG) |
 
 ## 📬 Postman Collection
 
