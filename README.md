@@ -1,5 +1,12 @@
 # User Management API
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![API](https://img.shields.io/badge/API-Testing-green?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)
+
 API REST desarrollada con Spring Boot para la gestión de usuarios, implementando un CRUD completo con persistencia en PostgreSQL.
 
 ---
